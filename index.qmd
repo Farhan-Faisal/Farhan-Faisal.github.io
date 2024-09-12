@@ -1,0 +1,8 @@
+---
+title: "👋 Hi, I’m @Farhan-Faisal"
+---
+- 👀  I’m interested in projects involving full stack development and data science.
+- 🌱  I’m currently in the MDS program at UBC.
+- 👀  This year, I want to enhance my DS skills and network with as many people as possible. 
+- 📫  How to reach me: LinkedIn: LinkedIn: in/farhanbinfaisal
+- 👀  Portfolio: https://dev-farhan.vercel.app
